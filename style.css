@@ -21,10 +21,6 @@ figcaption {
   margin: auto;
 }
 
-#details{
-  background-color: red;
-}
-
 #details div{
   width: 25%;
   float: left;
